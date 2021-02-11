@@ -1,0 +1,27 @@
+.produtos{
+    width: 75%;
+    float: right;
+}
+
+.box_produtos {
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+}
+
+.produtoName{
+    font-size: 14px;
+}
+
+.produtoPrecoAntigo{
+    margin: 0px;
+    font-size: 15px;
+    text-decoration: line-through;
+}
+
+.produtoPreco{
+    margin: 0px;
+    font-size: 18px;
+    color: red;
+    font-weight: bold;
+}
